@@ -1,1 +1,2 @@
-INITIALIZING...
+STOCKYARDS is a Perl program for personal use. It was made for learning Perl language and parsing methods. 
+It is try to use XML configuration as input, and try to use Excel file as output. 

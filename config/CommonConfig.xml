@@ -1,1 +1,22 @@
+<?xml version="1.0"?>
+<configuration>
 <!-- Configuration of Stockyards -->
+   <mode id="01">
+      <title>THIS IS TITLE</title>
+      <description>THIS IS DESCRIPTION</description>
+      <items>
+          <item id="1">Item1</item>
+          <item id="2">Item2</item>
+          <item id="3">Item3</item>
+      </items>
+   </mode>
+   <mode id="02">
+      <title>THIS IS TITLE FOR MODE 2</title>
+      <description>THIS IS DESCRIPTION FOR MODE 2</description>
+      <items>
+          <item id="1">Item1-mode2</item>
+          <item id="2">Item2-mode2</item>
+          <item id="3">Item3-mode2</item>
+      </items>
+   </mode>
+</configuration>
